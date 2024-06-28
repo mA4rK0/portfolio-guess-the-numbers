@@ -1,1 +1,1 @@
-A mini project about guess the number games
+A mini project about the Guess the Number game
